@@ -1,2 +1,2 @@
 # USYD-Event-Calendar
-This program uses web scraping to obtain events from Facebook pages and adds them to Google Calendar.
+A web scraping program to add events from Facebook pages to Google Calendar.
