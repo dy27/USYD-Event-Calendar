@@ -1,7 +1,7 @@
 # USYD-Event-Calendar
 
 ## Overview
-A web scraping program to find events from Facebook pages and export them to Google Calendar.
+A web scraping program to find events from Facebook pages associated with the University of Sydney and export them to Google Calendar.
 
 Link to follow calendar: https://calendar.google.com/calendar/b/2?cid=dXN5ZC5ldmVudEBnbWFpbC5jb20
 
